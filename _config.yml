@@ -7,7 +7,7 @@ title: Welcome to Landucheg's blog!
 subtitle:
 description: landucheg's personal blog
 keywords:
-author: John Doe & wooyee.Landucheg
+author: Theme by John Doe & blog by Landucheg
 language: 
 timezone:
 
@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://landucheg.top/blog
 root: /blog/
-permalink: :year/:month/:day/:title/
+permalink: :year/:month/:day/:title/index.html
 permalink_defaults:
 
 # Directory
