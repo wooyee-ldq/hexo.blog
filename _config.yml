@@ -7,7 +7,8 @@ title: Welcome to Landucheg's blog!
 subtitle:
 description: landucheg's personal blog
 keywords:
-author: Theme by John Doe & blog by Landucheg
+# author: Theme by John Doe & blog by Landucheg
+author: Blog by Landucheg
 language: 
 timezone:
 
@@ -50,7 +51,7 @@ highlight:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 10
+  per_page: 6
   order_by: -date
   
 # Category & Tag
