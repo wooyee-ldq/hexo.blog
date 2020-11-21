@@ -16,7 +16,8 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://landucheg.top/blog
 root: /blog/
-permalink: :year/:month/:day/:title/index.html
+# permalink: :year/:month/:day/:title/index.html
+permalink: :title.html
 permalink_defaults:
 
 # Directory
